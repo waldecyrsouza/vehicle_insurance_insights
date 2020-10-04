@@ -7,7 +7,7 @@ This Jupyter Notebook presents the effort to gather, assess, analize, clean, pre
 
 According to the source above, the data has information about demographics (gender, age, region code type), Vehicles (Vehicle Age, Damage), Policy (Premium, sourcing channel) etc. It also informs whether the customer would be interested in vehicle insurance.
 
-The main objective of this script is to answer the following business questions:
+The main objective of this script is to answer the following business questions using the CRISP - Cross Industry Standard Process for Data Mining:
 
 What is the percentage of interested people in vehicle insurance in our data?
 Is there a specific public that are more interested in vehicle insurance compared to the others?
