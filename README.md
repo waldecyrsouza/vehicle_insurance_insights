@@ -30,10 +30,10 @@ The main business objective here is to understand who is more likely to acquire 
 - train.csv
 This data has information about demographics (gender, age, region code type), Vehicles (Vehicle Age, Damage), Policy (Premium, sourcing channel) etc. It also informs whether the customer would be interested in vehicle insurance.
 
-test.csv - not used
+- test.csv - not used
 This data is similar to "train.csv", but without the interest column. Actually as this whole dataset was part of a hackathon challange, this archive was the one that the people shoud send back to evaluation.
 
-sample_submission.csv - not used
+- sample_submission.csv - not used
 It was part of the hackathon submission.
 
 --- Results ---
